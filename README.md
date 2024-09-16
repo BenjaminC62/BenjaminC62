@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning :  Php, java, Flask, Laravel<br>⚡ Quote : "Nothing is as permanent as a temporary solution that works".</p>
+<p align="left">🌱 I’m currently learning :  <strong>Php, Java, Flask, Laravel</strong><br>⚡ Quote : "Nothing is as permanent as a temporary solution that works.".</p>
 
 ###
 
