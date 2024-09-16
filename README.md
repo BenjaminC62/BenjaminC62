@@ -79,13 +79,13 @@
 <br clear="both">
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/ton-profile" target="_blank" style="display: none;">
+  <a href="https://www.linkedin.com/in/benjamin-cornet-2b354a2b7/" target="_blank" style="display: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/benjamin.c62/" target="_blank" style="display: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo" />
   </a>
-  <a href="mailto:ton-email@gmail.com" style="display: none;">
+  <a href="mailto:benjamincornet62130@gmail.com" style="display: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo" />
   </a>
 </div>
