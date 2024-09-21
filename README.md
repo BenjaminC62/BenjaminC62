@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">⋆⭒˚.⋆ I'm a student developer at the University Technology Diploma at Lens with a focus on application development ⋆⭒˚.⋆</p>
+<p align="center">⭒˚.⋆⋆ I'm a student developer at the University Technology Diploma at Lens with a focus on application development ⋆⭒˚.⋆</p>
 
 ###
 
