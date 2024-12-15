@@ -1,12 +1,6 @@
-<h1 align="center">🇬🇧 - <svg viewBox="0 0 500 50">
-  <text x="10" y="30" font-size="20" fill="black">
-    <tspan>
-      <animate attributeName="textLength" from="0" to="200" dur="2s" repeatCount="indefinite" />
-      Cornet Benjamin
-    </tspan>
-  </text>
-</svg>
- - 🇫🇷</h1>
+<h1 align="center">🇬🇧 -<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=5000&color=3AF7D0&background=FF090900&center=true&vCenter=true&width=265&height=41&lines=Cornet+Benjamin" alt="Typing SVG" /></a>- 🇫🇷</h1>
+
+
 
 ###
 
