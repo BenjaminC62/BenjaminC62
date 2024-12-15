@@ -1,4 +1,12 @@
-<h1 align="center">🇬🇧 - Cornet Benjamin - 🇫🇷</h1>
+<h1 align="center">🇬🇧 - <svg viewBox="0 0 500 50">
+  <text x="10" y="30" font-size="20" fill="black">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="200" dur="2s" repeatCount="indefinite" />
+      Cornet Benjamin
+    </tspan>
+  </text>
+</svg>
+ - 🇫🇷</h1>
 
 ###
 
@@ -10,15 +18,15 @@
 
 ###
 
-<h6 align="left">📜 - Favorite quote : "People lie, Data does not"</h6>
+<p align="left">📜 - Favorite quote : <i>"People lie, Data does not"</i> </p>
 
 ###
 
-<h6 align="left">💎- I’m currently perfecting : Java, Python</h6>
+<p align="left">💎- I’m currently perfecting : <Strong>Java, Python</Strong> </p>
 
 ###
 
-<h6 align="left">💡 - I’m currently learning : React, TypeScript, JavaScript</h6>
+<p align="left">💡 - I’m currently learning : <Strong>React, TypeScript, JavaScript</Strong></p>
 
 ###
 
@@ -112,3 +120,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BenjaminC62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminC62&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
