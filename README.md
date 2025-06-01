@@ -12,10 +12,6 @@
 
 ###
 
-<p align="left">📜 - Favorite quote : <i>"People lie, Data does not"</i> </p>
-
-###
-
 <p align="left">💎- I’m currently perfecting : <Strong>Java, Python</Strong> </p>
 
 ###
