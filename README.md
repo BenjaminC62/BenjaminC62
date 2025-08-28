@@ -8,18 +8,6 @@
 
 ###
 
-<h2 align="left">✨ - About me</h2>
-
-###
-
-<p align="left">💎- I’m currently perfecting : <Strong>Java, Python</Strong> </p>
-
-###
-
-<p align="left">💡 - I’m currently learning : <Strong>React, TypeScript, JavaScript</Strong></p>
-
-###
-
 <h2 align="left">💻 - Programming languages I've placed my hands on</h2>
 
 ###
