@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#english-version">
+  <a href="https://github.com/BenjaminC62/BenjaminC62/blob/master/README.md">
     <img src="https://flagcdn.com/gb.svg" height="40" style="border-radius:8px;" alt="English"/>
   </a>
   ✨ Hey there, I'm <span style="color:#3AF7D0;">Benjamin Cornet</span> ✨
