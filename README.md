@@ -32,7 +32,7 @@
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxtjs,tailwind,nodejs,java,php,laravel,py,flask,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxtjs,tailwind,nodejs,java,php,laravel,py,flask,postgres,sqlite,mongodb" />
 
 </div>
 
