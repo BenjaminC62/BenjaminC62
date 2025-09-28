@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://cornetbenjaminportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=00CFFF" alt="Portfolio" height="50" />
   </a>
 </p>
 
