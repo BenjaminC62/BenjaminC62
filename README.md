@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://ton-portfolio.com](https://cornetbenjaminportfolio.netlify.app/" target="_blank">
+  <a href="https://cornetbenjaminportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
