@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=3000&color=00CFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Développeur+Fullstack+en+devenir;Toujours+en+quête+de+nouvelles+technologies;Esprit+d'équipe+%26+Résolution+de+problèmes;Code+propre+%26+créatif" alt="Animation écriture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=3000&color=00CFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Développeur+Fullstack;Toujours+en+quête+de+nouvelles+technologies;Esprit+d'équipe+%26+Résolution+de+problèmes;Code+propre+%26+créatif" alt="Animation écriture" />
 </p>
 
 ---
