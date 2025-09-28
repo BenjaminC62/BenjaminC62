@@ -1,13 +1,18 @@
 <h1 align="center">
   <a href="#english-version">
-    <img src="https://flagcdn.com/gb.svg" height="40" alt="English"/>
+    <img src="https://flagcdn.com/gb.svg" height="40" style="border-radius:8px;" alt="English"/>
   </a>
   ✨ Hey there, I'm <span style="color:#3AF7D0;">Benjamin Cornet</span> ✨
   <a href="#french-version">
-    <img src="https://flagcdn.com/fr.svg" height="40" alt="Français"/>
+    <img src="https://flagcdn.com/fr.svg" height="40" style="border-radius:8px;" alt="Français"/>
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://ton-portfolio.com](https://cornetbenjaminportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
   🇫🇷 French student developer @ <strong>IUT de Lens</strong><br>
