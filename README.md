@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="#english-version">
-    <img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" alt="English button"/>
+    <img src="https://flagcdn.com/gb.svg" height="40" alt="English"/>
   </a>
   ✨ Hey there, I'm <span style="color:#3AF7D0;">Benjamin Cornet</span> ✨
   <a href="#french-version">
-    <img src="https://img.shields.io/badge/🇫🇷-Français-red?style=for-the-badge" alt="French button"/>
+    <img src="https://flagcdn.com/fr.svg" height="40" alt="Français"/>
   </a>
 </h1>
 
